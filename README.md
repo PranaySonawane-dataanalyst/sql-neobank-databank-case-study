@@ -81,7 +81,7 @@ CREATE TABLE regions (
 
 ---
 
-## 📌 How to Use the Folders
+## 📌 How to Use the Tables
 1. After creating a database, copy all the DDL commands mentioned above (or use the SQL files provided in the repository).  
 2. In the same folder, you will also find the **DML commands** to insert sample datasets for practice.  
 3. I have also uploaded a PDF file containing all the **questions (without answers)**, so you don’t need to create a separate file. Just download the file named:  
@@ -162,6 +162,24 @@ CREATE TABLE regions (
 📌 *Insight:* The deposit activity shows steady engagement, but there’s potential to increase deposit frequency through loyalty programs or higher-interest savings incentives.
 
 ---
+
+---
+
+## ✅ Conclusion  
+
+The Neo Bank Data Bank case study shows that while the bank has a **strong infrastructure of 3,500 nodes**, customer adoption remains relatively low. Transaction activity is steady, but **node switching is frequent** and deposits can be further optimized. With better **marketing, customer engagement, and retention strategies**, Neo Bank can fully leverage its digital model to drive growth and strengthen its position in the fintech sector.  
+
+---
+
+## 🚀 Next Steps / Recommendations  
+
+1. **Customer Acquisition Campaigns** – Run targeted marketing and referral programs to attract new users and increase utilization of existing nodes.  
+2. **Retention Strategies** – Enhance customer experience with loyalty rewards, personalized offers, or higher interest incentives to reduce frequent node switching.  
+3. **Infrastructure Optimization** – Monitor underutilized nodes and reallocate resources to high-demand regions for better efficiency.  
+4. **Advanced Analytics** – Implement predictive analytics to identify at-risk customers and design proactive engagement strategies.  
+5. **Product Innovation** – Introduce new digital services such as micro-investments, instant loans, or AI-driven savings plans to boost customer activity.  
+
+📌 By following these steps, Neo Bank can improve both **customer growth** and **operational efficiency**, ensuring sustainable long-term success in the digital banking landscape.  
 
 ## 📎 Author
 **Pranay Sonawane** 
